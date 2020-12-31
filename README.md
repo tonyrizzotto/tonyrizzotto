@@ -23,20 +23,20 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, My name is [Tony Rizzotto!](https://tonyrizzotto.com/). I'm a Full Stack Web Developer 🚀 located in the Greater Boston area. I've building, fixing and re-building things my whole life!
+My name is [Tony Rizzotto!](https://tonyrizzotto.com/). I'm a Full Stack Web Developer 🚀 located in the Greater Boston area. I've building things my whole life!
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-**Here's what I'm up to:**
 
+**Here's what I'm up to:**
 - 👨🏽‍💻 I’m currently building an open-source management tool for educators :wink:;
 - 🌱 I’m currently learning Typescript;
 - 📝 **Hire Me!** I am currently looking for new opportunities!
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: tony@tonyrizzotto.com
 
-**Languages and Tools:** 
-<br />
+**Languages and Tools:**
+
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
