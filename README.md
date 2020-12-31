@@ -37,7 +37,7 @@ Hi, My name is [Tony Rizzotto!](https://tonyrizzotto.com/), a passionate Full St
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: tony@tonyrizzotto.com
 
-**Languages and Tools:**
+**Languages and Tools:** <br />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
