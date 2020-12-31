@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 My name is [Tony Rizzotto!](https://tonyrizzotto.com/) I'm a Full Stack Web Developer 🚀 located in the Greater Boston area. I've building things my whole life!
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<!--<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
 **Here's what I'm up to:**
 - 👨🏽‍💻 I’m currently building an open-source management tool for educators :wink:;
