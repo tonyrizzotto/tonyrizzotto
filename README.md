@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Tony's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-My name is [Tony Rizzotto!](https://tonyrizzotto.com/) I'm a Full Stack Web Developer 🚀 located in the Greater Boston area. I've building things my whole life!
+My name is [Tony Rizzotto!](https://tonyrizzotto.com/) I'm a Full Stack Web Developer 🚀 located in the Greater Boston area.
 
 <!--<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
