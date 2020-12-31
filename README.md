@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu) -->
 
-<br />
-
 My name is [Tony Rizzotto!](https://tonyrizzotto.com/). I'm a Full Stack Web Developer 🚀 located in the Greater Boston area. I've building things my whole life!
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
