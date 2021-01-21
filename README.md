@@ -44,16 +44,3 @@ My name is [Tony Rizzotto!](https://tonyrizzotto.com/) I'm a Full Stack Web Deve
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
-📊 **How I've been spending my time this week:**
-
-<!--START_SECTION:timespent-->
-
-```text
-Javascript        6 hrs       ████████████▒░░░░░░░░░░░░   46.20 %
-Python/Flask      2 hrs       ███████░░░░░░░░░░░░░░░░░░   15.38 %
-HTML/CSS          2 hrs       ███████░░░░░░░░░░░░░░░░░░   15.35 %
-Node.js           3 hrs       ███████▓░░░░░░░░░░░░░░░░░   23.07 %
-```
-
-<!--END_SECTION:timespent-->
