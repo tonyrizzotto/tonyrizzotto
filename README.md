@@ -23,9 +23,7 @@ My name is [Tony Rizzotto!](https://tonyrizzotto.com/) I'm a Full Stack Web Deve
 
 <!--<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
-**Here's what I'm up to:**
-- 👨🏽‍💻 I’m currently building an open-source management tool for educators :wink:;
-- 🌱 I’m currently learning Typescript;
+**Some important bits:**
 - 📝 **Hire Me!** I am currently looking for new opportunities!
 - 💬 Reach out to talk and ask questions, I am happy to help;
 - 📫 How to reach me: tony@tonyrizzotto.com
