@@ -19,12 +19,12 @@ Here are some ideas to get you started:
   <img align="left" alt="Tony's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-My name is [Tony Rizzotto!](https://tonyrizzotto.com/) I'm a Full Stack Web Developer 🚀 located in the Greater Boston area.
+My name is [Tony Rizzotto!](https://tonyrizzotto.com/) I'm a Fullstack Software Engineer 🚀 located in the Greater Boston area. Currently, I'm working as a Software Engineer @ZenBusiness where we're building tools to help entrepreneurs succeed in starting and running a profitable business.
 
 <!--<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
 **Some important bits:**
-- 📝 **Hire Me!** I am currently looking for new opportunities!
+<!-- - 📝 **Hire Me!** I am currently looking for new opportunities! -->
 - 💬 Reach out to talk and ask questions, I am happy to help;
 - 📫 How to reach me: tony@tonyrizzotto.com
 
