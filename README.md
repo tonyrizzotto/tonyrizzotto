@@ -1,27 +1,10 @@
-<!--
-**tonyrizzotto/tonyrizzotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/tony-rizzotto/">
-  <img align="left" alt="Tony's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Tony's LinkedIn" width="22px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />
 </a>
 
 My name is [Tony Rizzotto!](https://tonyrizzotto.com/) I'm a Fullstack Software Engineer 🚀 located in the Greater Boston area. Currently, I'm working as a Senior Fullstack Engineer @ZenBusiness where we're building tools to help entrepreneurs succeed in starting and running a profitable business. My tools of choice are both Go in the backend and Javascript/React in the frontend, but work with many different languages and tools each day. 
-
-<!--<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
 **Some important bits:**
 <!-- - 📝 **Hire Me!** I am currently looking for new opportunities! -->
