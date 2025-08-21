@@ -4,25 +4,6 @@
   <img align="left" alt="Tony's LinkedIn" width="22px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />
 </a>
 
-My name is [Tony Rizzotto!](https://tonyrizzotto.com/) I'm a Fullstack Software Engineer 🚀 located in the Greater Boston area. Currently, I'm working as a Senior Fullstack Engineer @ZenBusiness where we're building tools to help entrepreneurs succeed in starting and running a profitable business. My tools of choice are both Go in the backend and Javascript/React in the frontend, but work with many different languages and tools each day. 
+My name is Tony, I'm a Software Engineer located in the Greater Lousiville area. I’ve served as both architect and lead engineer in the complex e-commerce space: implemented domain-driven design, set observability and coding standards, and guided fast-moving teams to deliver reliably and on time. I’ve led major system refactors, migrations and re-platforming efforts to transition business capability and scale products independently. The systems I've designed handle complex accounting, revenue recognition and reporting, payments and invoicing, distributed fulfillment, entitlements and much more. I have a deep understanding of databases, ETL and optimizing for lean performance. 
 
-**Some important bits:**
-<!-- - 📝 **Hire Me!** I am currently looking for new opportunities! -->
-- 💬 Reach out to talk and ask questions, I am happy to help;
-- 📫 How to reach me: tony@tonyrizzotto.com
-
-**Languages and Tools:**
-
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+This Github profile is where I iterate on ideas, not always seriously, but always for improvement. Anything you see here is something I really believe in or something that meant something to me during my journey in software. 
